@@ -33,6 +33,7 @@ ul {
 .page-addres .link {
   color: var(--color-primary);
   letter-spacing: 0.02em;
+  text-decoration: none;
 }
 .page-addres .link:hover {
   color: var(--clr-button-on);
